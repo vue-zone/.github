@@ -1,4 +1,4 @@
-Hi👋, welcome to easy-template
+Hi👋, welcome to Easy Templates
 ---
 
 > Our goal is to create more user-friendly Vue3 templates. 
@@ -14,4 +14,4 @@ Our docs:
 
 - 🚧 [easy-docs](https://github.com/easy-temps/easy-docs) - In Progress
 
-Give us a ⭐  if you like what we do!
+If you like what we do, please follow us!
