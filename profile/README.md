@@ -1,7 +1,7 @@
-Hi👋, welcome to Easy Templates
+👋 Welcome to Easy Template
 ---
 
-> Our goal is to create more user-friendly Vue 3 templates. 
+> Our goal is to create more user-friendly Vue 3 template. 
 
 **Templates**
 
