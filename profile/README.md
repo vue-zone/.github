@@ -5,7 +5,7 @@
 ## 模板列表
 
 - ✅ [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) - 准备好！
-- ✅ [nuxt3-vant-mobile](https://github.com/easy-temps/nuxt3-vant-mobile) - 准备好！
+- ✅ [nuxt-vant-mobile](https://github.com/easy-temps/nuxt-vant-mobile) - (Nuxt 4) 准备好！
 - ✅ [vue3-varlet-mobile](https://github.com/easy-temps/vue3-varlet-mobile) - 准备好！
 - 🚧 [vue3-antdv-admin](https://github.com/easy-temps/vue3-antdv-admin) - 未开始
 - 🚧 [vue3-element-admin](https://github.com/easy-temps/vue3-element-admin) - 未开始
