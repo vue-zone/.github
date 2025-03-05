@@ -7,6 +7,6 @@
 - ✅ [vue3-vant-mobile](https://github.com/easy-temps/vue3-vant-mobile) - 准备好！
 - ✅ [nuxt-vant-mobile](https://github.com/easy-temps/nuxt-vant-mobile) - (Nuxt 4) 准备好！
 - ✅ [vue3-varlet-mobile](https://github.com/easy-temps/vue3-varlet-mobile) - 准备好！
-- 🚧 [nuxtone](https://github.com/easy-temps/nuxtone) - 基于 Nuxt 全栈开发框架，开发中 ~
+- 🚧 [nuxt-one](https://github.com/easy-temps/nuxtone) - 基于 Nuxt 全栈开发框架，开发中
 
 如果您喜欢我们做的事情，请关注我们!
