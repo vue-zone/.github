@@ -7,6 +7,6 @@
 - ✅ [vue3-vant-mobile](https://github.com/vue-zone/vue3-vant-mobile) - 准备好！
 - ✅ [nuxt-vant-mobile](https://github.com/vue-zone/nuxt-vant-mobile) - (Nuxt⁴) 准备好！
 - ✅ [vue3-varlet-mobile](https://github.com/vue-zone/vue3-varlet-mobile) - 准备好！
-- ✅ [nuxt-one](https://github.com/nuxtone/nuxt-one) - 基于 Nuxt 全栈开发框架，准备好！
+- ✅ [nuxt-one](https://github.com/nuxt-one/nuxt-one) - 基于 Nuxt 全栈开发框架，准备好！
 
 如果您喜欢我们做的事情，请关注我们!
